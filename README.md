@@ -1,5 +1,5 @@
 # avalanche
-GIS project from Tufts
+GIS project from Tufts  
 [Final poster](https://github.com/jmfinnegan12/avalanche/blob/main/Finnegan_James_EOS104_2018.pdf)
 
 #### Final project for Geological Applications of GIS, Tufts University
